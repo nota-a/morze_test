@@ -1,0 +1,86 @@
+Dependencies for Project 'ksc_test', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 6190000::V6.19::ARMCLANG
+F (.\main.h)(0x67D15624)()
+F (.\main.c)(0x67D1609D)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./milandr-standard-peripherals-library/src/MDR32F9Qx_StdPeriph_Driver/inc-I./RTE/Device/MDR1986BE92-I./RTE/_Target_1-IC:/Users/ADM/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/ADM/AppData/Local/Arm/Packs/Keil/MDR1986BExx/2.0.3/Libraries/CMSIS/MDR32Fx/CoreSupport/CM3-IC:/Users/ADM/AppData/Local/Arm/Packs/Keil/MDR1986BExx/2.0.3/Libraries/CMSIS/MDR32Fx/DeviceSupport/MDR1986VE9x/inc-D__UVISION_VERSION="538" -D_RTE_ -D_RTE_-o ./objects/main.o -MD)
+I (main.h)(0x67D15624)
+I (milandr-standard-peripherals-library\src\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_port.h)(0x55CC6B72)
+I (RTE\Device\MDR1986BE92\MDR32F9Qx_config.h)(0x614C33D2)
+I (C:\Users\ADM\AppData\Local\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x63888F58)
+I (RTE\_Target_1\RTE_Components.h)(0x67D13DF7)
+I (C:\Users\ADM\AppData\Local\Arm\Packs\Keil\MDR1986BExx\2.0.3\Libraries\CMSIS\MDR32Fx\DeviceSupport\MDR1986VE9x\inc\MDR32Fx.h)(0x614AC30E)
+I (C:\Users\ADM\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm3.h)(0x664C1ED8)
+I (C:\Users\ADM\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_version.h)(0x664C1ED8)
+I (C:\Users\ADM\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_compiler.h)(0x664C1ED8)
+I (C:\Users\ADM\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_armclang.h)(0x664C1ED8)
+I (C:\Users\ADM\AppData\Local\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x63888F58)
+I (C:\Users\ADM\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\m-profile\cmsis_armclang_m.h)(0x664C1ED8)
+I (C:\Users\ADM\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\m-profile\armv7m_mpu.h)(0x664C1ED8)
+I (RTE\Device\MDR1986BE92\system_MDR32F9Qx.h)(0x6114C5F2)
+I (milandr-standard-peripherals-library\src\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_lib.h)(0x655761AC)
+I (milandr-standard-peripherals-library\src\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_rst_clk.h)(0x6555E116)
+I (milandr-standard-peripherals-library\src\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_uart.h)(0x55CC6B72)
+I (C:\Users\ADM\AppData\Local\Keil_v5\ARM\ARMCLANG\include\stdlib.h)(0x63888F58)
+I (C:\Users\ADM\AppData\Local\Keil_v5\ARM\ARMCLANG\include\stdio.h)(0x63888F58)
+F (.\milandr-standard-peripherals-library\src\MDR32F9Qx_StdPeriph_Driver\src\MDR32F9Qx_port.c)(0x55CC6B72)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./milandr-standard-peripherals-library/src/MDR32F9Qx_StdPeriph_Driver/inc-I./RTE/Device/MDR1986BE92-I./RTE/_Target_1-IC:/Users/ADM/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/ADM/AppData/Local/Arm/Packs/Keil/MDR1986BExx/2.0.3/Libraries/CMSIS/MDR32Fx/CoreSupport/CM3-IC:/Users/ADM/AppData/Local/Arm/Packs/Keil/MDR1986BExx/2.0.3/Libraries/CMSIS/MDR32Fx/DeviceSupport/MDR1986VE9x/inc-D__UVISION_VERSION="538" -D_RTE_ -D_RTE_-o ./objects/mdr32f9qx_port.o -MD)
+I (RTE\Device\MDR1986BE92\MDR32F9Qx_config.h)(0x614C33D2)
+I (C:\Users\ADM\AppData\Local\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x63888F58)
+I (RTE\_Target_1\RTE_Components.h)(0x67D13DF7)
+I (C:\Users\ADM\AppData\Local\Arm\Packs\Keil\MDR1986BExx\2.0.3\Libraries\CMSIS\MDR32Fx\DeviceSupport\MDR1986VE9x\inc\MDR32Fx.h)(0x614AC30E)
+I (C:\Users\ADM\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm3.h)(0x664C1ED8)
+I (C:\Users\ADM\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_version.h)(0x664C1ED8)
+I (C:\Users\ADM\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_compiler.h)(0x664C1ED8)
+I (C:\Users\ADM\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_armclang.h)(0x664C1ED8)
+I (C:\Users\ADM\AppData\Local\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x63888F58)
+I (C:\Users\ADM\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\m-profile\cmsis_armclang_m.h)(0x664C1ED8)
+I (C:\Users\ADM\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\m-profile\armv7m_mpu.h)(0x664C1ED8)
+I (RTE\Device\MDR1986BE92\system_MDR32F9Qx.h)(0x6114C5F2)
+I (milandr-standard-peripherals-library\src\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_port.h)(0x55CC6B72)
+I (milandr-standard-peripherals-library\src\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_lib.h)(0x655761AC)
+F (.\milandr-standard-peripherals-library\src\MDR32F9Qx_StdPeriph_Driver\src\MDR32F9Qx_rst_clk.c)(0x55CC6B7A)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./milandr-standard-peripherals-library/src/MDR32F9Qx_StdPeriph_Driver/inc-I./RTE/Device/MDR1986BE92-I./RTE/_Target_1-IC:/Users/ADM/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/ADM/AppData/Local/Arm/Packs/Keil/MDR1986BExx/2.0.3/Libraries/CMSIS/MDR32Fx/CoreSupport/CM3-IC:/Users/ADM/AppData/Local/Arm/Packs/Keil/MDR1986BExx/2.0.3/Libraries/CMSIS/MDR32Fx/DeviceSupport/MDR1986VE9x/inc-D__UVISION_VERSION="538" -D_RTE_ -D_RTE_-o ./objects/mdr32f9qx_rst_clk.o -MD)
+I (RTE\Device\MDR1986BE92\MDR32F9Qx_config.h)(0x614C33D2)
+I (C:\Users\ADM\AppData\Local\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x63888F58)
+I (RTE\_Target_1\RTE_Components.h)(0x67D13DF7)
+I (C:\Users\ADM\AppData\Local\Arm\Packs\Keil\MDR1986BExx\2.0.3\Libraries\CMSIS\MDR32Fx\DeviceSupport\MDR1986VE9x\inc\MDR32Fx.h)(0x614AC30E)
+I (C:\Users\ADM\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm3.h)(0x664C1ED8)
+I (C:\Users\ADM\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_version.h)(0x664C1ED8)
+I (C:\Users\ADM\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_compiler.h)(0x664C1ED8)
+I (C:\Users\ADM\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_armclang.h)(0x664C1ED8)
+I (C:\Users\ADM\AppData\Local\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x63888F58)
+I (C:\Users\ADM\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\m-profile\cmsis_armclang_m.h)(0x664C1ED8)
+I (C:\Users\ADM\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\m-profile\armv7m_mpu.h)(0x664C1ED8)
+I (RTE\Device\MDR1986BE92\system_MDR32F9Qx.h)(0x6114C5F2)
+I (milandr-standard-peripherals-library\src\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_rst_clk.h)(0x6555E116)
+I (milandr-standard-peripherals-library\src\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_lib.h)(0x655761AC)
+F (.\milandr-standard-peripherals-library\src\MDR32F9Qx_StdPeriph_Driver\src\MDR32F9Qx_uart.c)(0x55CC6B72)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./milandr-standard-peripherals-library/src/MDR32F9Qx_StdPeriph_Driver/inc-I./RTE/Device/MDR1986BE92-I./RTE/_Target_1-IC:/Users/ADM/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/ADM/AppData/Local/Arm/Packs/Keil/MDR1986BExx/2.0.3/Libraries/CMSIS/MDR32Fx/CoreSupport/CM3-IC:/Users/ADM/AppData/Local/Arm/Packs/Keil/MDR1986BExx/2.0.3/Libraries/CMSIS/MDR32Fx/DeviceSupport/MDR1986VE9x/inc-D__UVISION_VERSION="538" -D_RTE_ -D_RTE_-o ./objects/mdr32f9qx_uart.o -MD)
+I (RTE\Device\MDR1986BE92\MDR32F9Qx_config.h)(0x614C33D2)
+I (C:\Users\ADM\AppData\Local\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x63888F58)
+I (RTE\_Target_1\RTE_Components.h)(0x67D13DF7)
+I (C:\Users\ADM\AppData\Local\Arm\Packs\Keil\MDR1986BExx\2.0.3\Libraries\CMSIS\MDR32Fx\DeviceSupport\MDR1986VE9x\inc\MDR32Fx.h)(0x614AC30E)
+I (C:\Users\ADM\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm3.h)(0x664C1ED8)
+I (C:\Users\ADM\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_version.h)(0x664C1ED8)
+I (C:\Users\ADM\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_compiler.h)(0x664C1ED8)
+I (C:\Users\ADM\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_armclang.h)(0x664C1ED8)
+I (C:\Users\ADM\AppData\Local\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x63888F58)
+I (C:\Users\ADM\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\m-profile\cmsis_armclang_m.h)(0x664C1ED8)
+I (C:\Users\ADM\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\m-profile\armv7m_mpu.h)(0x664C1ED8)
+I (RTE\Device\MDR1986BE92\system_MDR32F9Qx.h)(0x6114C5F2)
+I (milandr-standard-peripherals-library\src\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_uart.h)(0x55CC6B72)
+I (milandr-standard-peripherals-library\src\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_lib.h)(0x655761AC)
+I (milandr-standard-peripherals-library\src\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_rst_clk.h)(0x6555E116)
+F (RTE/Device/MDR1986BE92/MDR1986VE9x.sct)(0x6114C5F2)()
+F (RTE/Device/MDR1986BE92/MDR32F9Qx_config.h)(0x614C33D2)()
+F (RTE/Device/MDR1986BE92/startup_MDR32F9Qx.S)(0x6114C5F2)(--target=arm-arm-none-eabi -mcpu=cortex-m3 -masm=auto  -Wa,armasm,--diag_suppress=A1950W -c-gdwarf-4 -D__EVAL-I./RTE/Device/MDR1986BE92-I./RTE/_Target_1-IC:/Users/ADM/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/ADM/AppData/Local/Arm/Packs/Keil/MDR1986BExx/2.0.3/Libraries/CMSIS/MDR32Fx/CoreSupport/CM3-IC:/Users/ADM/AppData/Local/Arm/Packs/Keil/MDR1986BExx/2.0.3/Libraries/CMSIS/MDR32Fx/DeviceSupport/MDR1986VE9x/inc-D__UVISION_VERSION=538 -D_RTE_ -D_RTE_-o ./objects/startup_mdr32f9qx.o)
+F (RTE/Device/MDR1986BE92/system_MDR32F9Qx.c)(0x6114C5F2)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./milandr-standard-peripherals-library/src/MDR32F9Qx_StdPeriph_Driver/inc-I./RTE/Device/MDR1986BE92-I./RTE/_Target_1-IC:/Users/ADM/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/ADM/AppData/Local/Arm/Packs/Keil/MDR1986BExx/2.0.3/Libraries/CMSIS/MDR32Fx/CoreSupport/CM3-IC:/Users/ADM/AppData/Local/Arm/Packs/Keil/MDR1986BExx/2.0.3/Libraries/CMSIS/MDR32Fx/DeviceSupport/MDR1986VE9x/inc-D__UVISION_VERSION="538" -D_RTE_ -D_RTE_-o ./objects/system_mdr32f9qx.o -MD)
+I (C:\Users\ADM\AppData\Local\Arm\Packs\Keil\MDR1986BExx\2.0.3\Libraries\CMSIS\MDR32Fx\DeviceSupport\MDR1986VE9x\inc\MDR32Fx.h)(0x614AC30E)
+I (RTE\Device\MDR1986BE92\MDR32F9Qx_config.h)(0x614C33D2)
+I (C:\Users\ADM\AppData\Local\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x63888F58)
+I (RTE\_Target_1\RTE_Components.h)(0x67D13DF7)
+I (C:\Users\ADM\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm3.h)(0x664C1ED8)
+I (C:\Users\ADM\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_version.h)(0x664C1ED8)
+I (C:\Users\ADM\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_compiler.h)(0x664C1ED8)
+I (C:\Users\ADM\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\cmsis_armclang.h)(0x664C1ED8)
+I (C:\Users\ADM\AppData\Local\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x63888F58)
+I (C:\Users\ADM\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\m-profile\cmsis_armclang_m.h)(0x664C1ED8)
+I (C:\Users\ADM\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\m-profile\armv7m_mpu.h)(0x664C1ED8)
+I (RTE\Device\MDR1986BE92\system_MDR32F9Qx.h)(0x6114C5F2)
+F (RTE/Device/MDR1986BE92/system_MDR32F9Qx.h)(0x6114C5F2)()
